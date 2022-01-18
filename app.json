@@ -8,7 +8,7 @@
         "Telegram Bot"
     ],
     "website": "https://avipatilweb.me",
-    "repository": "https://github.com/avipatilpro/AnonFliesBot",
+    "repository": "https://github.com/captainak1/AnonFliesBot",
     "success_url": "https://telegram.me/AvishkarPatil",
     "env": {
         "BOT_TOKEN": {
